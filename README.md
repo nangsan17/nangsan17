@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nang Thet Htar San 👋
 
-<!--
-**nangsan17/nangsan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Asia Pacific University  
+💻 Frontend Developer with backend API experience  
+📍 Kuala Lumpur, Malaysia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Interested in frontend development and UI/UX design  
+- Experienced in building RESTful APIs using FastAPI  
+- Enjoy creating clean and functional applications  
+- Currently building a task management mobile app (Flutter)  
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, Flutter  
+- Backend: Python (FastAPI), Java, C#, C++  
+- Database: SQL  
+- Tools: Git, Postman  
+
+---
+
+## 📌 Projects
+- EduCore API System – Backend API with authentication and role-based access  
+- APU League Website – Responsive web design project  
+- Course Recovery System (Java GUI)  
+- Student Task Management App (Flutter - In Progress)  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/nang-thet-htar-san-03baab328/
